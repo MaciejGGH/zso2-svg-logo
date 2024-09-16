@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="640.000000pt" height="367.000000pt" viewBox="0 0 640.000000 367.000000"
+ preserveAspectRatio="xMidYMid meet">
+<g transform="translate(5.000000,375.000000) scale(0.100000,-0.100000)"
+    style="fill:none;stroke:#0094DE;stroke-width:45">
+    <ellipse rx="150" ry="400" cx="2290" cy="1550"/>
+    <ellipse rx="150" ry="400" cx="2290" cy="1550" transform="rotate(65, 2290, 1550)"/>
+    <ellipse rx="150" ry="400" cx="2290" cy="1550" transform="rotate(-65, 2290, 1550)"/>
+    <circle r="60" cx="2290" cy="1550" fill="#0094DE" stroke="none"/>
+</g>
+</svg>
