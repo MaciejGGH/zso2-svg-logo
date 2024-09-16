@@ -19,5 +19,22 @@ m413 237
 v -580
 z"
 style="fill:white;stroke:black;stroke-width:10"/>
+
+<path 
+d="M2290 3000 h350 
+a 100 80 0 0 0 60 -60
+a 100 80 0 0 0 60 60
+h350 v-500
+a 80 80 0 0 0 -80 -80
+h-270
+a 100 80 0 0 1 -60 -60
+v 580
+v -580
+a 100 80 0 0 1 -60 60
+h-270
+a 80 80 0 0 0 -80 80
+z"
+style="fill:white;stroke:black;stroke-width:15"/>
+
 </g>
 </svg>
