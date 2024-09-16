@@ -31,26 +31,26 @@ c3 48 3 48 -15 28 -15 -17 -103 -49 -103 -37 0 2 14 27 31 56 43 72 49 131 19
 -246 1 -447 48 -751 178 l-37 15 78 -157 c174 -348 241 -623 226 -922 -9 -187
 -66 -426 -136 -572 l-18 -38 54 0 c94 0 274 50 1049 288 160 49 309 94 333
 101 l42 12 0 704 c0 388 -2 705 -3 705 -2 0 -14 -11 -27 -25z"
-style="fill:blue;stroke:black;stroke-width:15"/>
+style="fill:#0094DE;stroke:black;stroke-width:15"/>
 <!--druga ćwiartka-->
 <path d="M3330 2914 c0 -662 1 -700 18 -695 9 3 62 16 117 30 344 85 635 126
 1018 142 156 7 158 7 152 28 -4 11 -10 91 -12 176 -4 119 -1 177 12 245 34
 187 112 368 244 568 l71 107 -38 -16 c-611 -262 -1131 -240 -1510 66 -34 27
 -64 50 -67 50 -3 0 -5 -315 -5 -701z"
-style="fill:red;stroke:black;stroke-width:15"/>
+style="fill:#DB261F;stroke:black;stroke-width:15"/>
 <!--trzecia ćwiartka-->
 <path d="M4375 1870 c-234 -30 -570 -110 -962 -230 l-83 -25 1 -817 0 -817 23
 62 c32 85 66 127 146 178 134 88 260 130 736 249 187 46 388 100 448 120 202
 67 341 159 385 256 46 102 11 338 -92 616 -75 203 -82 219 -90 225 -11 8 -67
 157 -67 180 0 18 -8 19 -167 18 -93 -1 -217 -8 -278 -15z"
-style="fill:blue;stroke:black;stroke-width:15"/>
+style="fill:#0094DE;stroke:black;stroke-width:15"/>
 <!--czwarta ćwiartka-->
 <path d="M3300 1615 c-14 -4 -169 -51 -345 -105 -559 -169 -953 -258 -1278
 -286 -132 -12 -137 -13 -137 -35 0 -13 -7 -53 -16 -91 -9 -40 -14 -96 -12
 -135 3 -58 9 -74 43 -123 74 -108 218 -202 401 -263 99 -33 329 -86 554 -127
 539 -98 732 -203 801 -433 8 -29 15 -39 21 -30 10 16 11 1638 1 1637 -5 0 -19
 -4 -33 -9z"
-style="fill:red;stroke:black;stroke-width:15"/>
+style="fill:#DB261F;stroke:black;stroke-width:15"/>
 <!--tarcza góra-->
 <path d="M3300 3600 c-68 -73 -272 -187 -419 -234 -132 -44 -220 -56 -391 -55
 -246 1 -447 48 -751 178 l-37 15 78 -157 c174 -348 241 -623 226 -922 -9 -186
@@ -128,11 +128,11 @@ l-166 0 0 -284z
 m413 237 
 v -580
 z"
-style="fill:white;stroke:black;stroke-width:10"/>
+style="fill:white;stroke:black;stroke-width:15"/>
 </g>
 <!-- koniczyna -->
 <g transform="translate(5.000000,375.000000) scale(0.100000,-0.100000)"
-stroke="black" stroke-width="10" fill="white">
+stroke="black" stroke-width="15" fill="white">
 <path transform="rotate(-25, 4270 1550)"
 d="M4270 1550 v-200 h200 
 a100,100 90 0,1 0,200
@@ -156,6 +156,6 @@ z"/>
 <circle r="120" cx="4185" cy="1370" fill="white" stroke="none" />
 <path 
 d="M4060 1085 
-c-350 -800 -150 -152 50 120 z"/>
+c-350 -600 -150 -152 50 120 z"/>
 </g>
 </svg>
