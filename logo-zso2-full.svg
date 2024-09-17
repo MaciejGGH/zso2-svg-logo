@@ -9,7 +9,7 @@
 fill="#000000" stroke="none">
     <!-- tarcza -->
     <!-- pierwsza cwiartka -->
-    <path d="M3300 3645 
+    <path d="M3400 3645 
     q -700 -600 -1640 -110
     q 680 -500 180 -1675
     l 1460 0
@@ -17,7 +17,7 @@ fill="#000000" stroke="none">
     style="fill:#0094DE;stroke:black;stroke-width:15;opacity:1"/>
 
     <!-- druga ćwiartka -->
-    <path d="M3300 3645 
+    <path d="M3400 3645 
     q 700 -600 1640 -110
     q -680 -500 -180 -1675
     l -1460 0
@@ -25,7 +25,7 @@ fill="#000000" stroke="none">
     style="fill:#DB261F;stroke:black;stroke-width:15;opacity:1"/>
 
     <!-- trzecia ćwiartka -->
-    <path d="M3300 1860 
+    <path d="M3400 1860 
     l 1460 0 
     q 120 -310 280 -625
     q 150 -500 -300 -580
@@ -35,7 +35,7 @@ fill="#000000" stroke="none">
     style="fill:#0094DE;stroke:black;stroke-width:15;opacity:1"/>
 
     <!-- czwarta ćwiartka -->
-    <path d="M3300 1860 
+    <path d="M3400 1860 
     l 0 -1780 
     q -0 380 -1440 580
     q -500 150 -300 580
@@ -44,7 +44,7 @@ fill="#000000" stroke="none">
     style="fill:#DB261F;stroke:black;stroke-width:15;opacity:1"/>
 
     <!-- obwód tarczy -->
-    <path d="M3300 3645
+    <path d="M3400 3645
     q 700 -600 1640 -110
     q -800 -500 100 -2300
     q 150 -500 -300 -580
@@ -55,7 +55,7 @@ fill="#000000" stroke="none">
     q 940 -490 1640 110 z
     " style="fill:none;stroke:black;stroke-width:50;opacity:1"/>
     <!-- piłka -->
-    <g transform="translate(200,900) scale(0.9,0.9)">
+    <g transform="translate(300,900) scale(0.9,0.9)">
     <circle r="350" cx="4200" cy="2000" fill="#0094DE"/>
         <g style="fill:#DB261F;stroke:#DB261F;stroke-width:45">
         <path d="M4200 2350 v-700"/>
@@ -65,7 +65,7 @@ fill="#000000" stroke="none">
         </g>
     </g>       
     <!-- atom -->
-    <g style="fill:none;stroke:#0094DE;stroke-width:45">
+    <g transform="translate(100,0)" style="fill:none;stroke:#0094DE;stroke-width:45">
     <ellipse rx="150" ry="400" cx="2550" cy="1300"/>
     <ellipse rx="150" ry="400" cx="2550" cy="1300" transform="rotate(65, 2550, 1300)"/>
     <ellipse rx="150" ry="400" cx="2550" cy="1300" transform="rotate(-65, 2550, 1300)"/>
@@ -111,7 +111,7 @@ fill="#000000" stroke="none">
     141z"/>    
     <!-- książka -->
     <path 
-    d="M2290 3000 h350 
+    d="M2390 3000 h350 
     a 100 80 0 0 0 60 -60
     a 100 80 0 0 0 60 60
     h350 v-500
@@ -126,7 +126,7 @@ fill="#000000" stroke="none">
     z"
     style="fill:white;stroke:black;stroke-width:15"/>
     <!-- koniczyna -->
-    <g transform="translate(-20.00,-00.00)"
+    <g transform="translate(80.00,-00.00)"
         stroke="black" stroke-width="15" fill="white">
         <path transform="rotate(-25, 4270 1550)"
         d="M4270 1550 v-200 h200 
@@ -150,8 +150,9 @@ fill="#000000" stroke="none">
         z"/>
         <circle r="120" cx="4185" cy="1370" fill="white" stroke="none" />
         <path 
-        d="M4060 1085 
-        c-280 -500 -150 -152 50 120 z"/>
+        d="M4105 1195 
+        q -180 -400 -200 -400
+        q -50 -0 200 400"/>
     </g>
 </g>
 </svg>
