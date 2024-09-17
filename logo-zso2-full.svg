@@ -80,7 +80,7 @@ fill="#000000" stroke="none">
     <ellipse rx="150" ry="400" cx="2550" cy="1300" transform="rotate(-65, 2550, 1300)"/>
     <circle r="60" cx="2550" cy="1300" fill="#0094DE" stroke="none"/>
     <rect transform="rotate(16, 2200 1300)"
-        width="800" height="300" x="2200" y="1300" rx="0" ry="0" fill="white" stroke="white"/>
+        width="800" height="340" x="2160" y="1280" rx="0" ry="0" fill="white" stroke="none" stroke-width="1"/>
     </g>    
     <!--szarfa-->
     <path d="M6235 2710 c-145 -87 -407 -207 -579 -265 -178 -60 -414 -116 -531
