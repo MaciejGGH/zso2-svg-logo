@@ -138,11 +138,11 @@ fill="#000000" stroke="none">
     q 600 400 1780 560
     q-610 -150 -610 -300"  fill="white" stroke="black" stroke-width="30" fill-opacity="1.0"/>
     <!-- ZSO2 -->
-    <text x="2700" y="-1650" 
-    textLength="7em" 
+    <text x="2900" y="-1650" 
+    textLength="6.5em" 
     font-family="Times New Roman, Arial, Helvetica, Verdana"
     font-weight="bold"
     transform="rotate(14, 3500, -1800) scale(1,-1)" 
-    font-size="25em">ZSO 2 Poznań</text>
+    font-size="25em">ZSO2 Poznań</text>
 </g>
 </svg>
