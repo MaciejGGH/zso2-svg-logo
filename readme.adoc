@@ -1,0 +1,5 @@
+= Logo dla ZSO2
+
+Projekt logo dla https://zso2.pl[Zespołu Szkół Ogólnokształcących nr 2 im. Charles de Gaulle'a]
+
+image::logo-zso2-fr.svg[]
