@@ -138,13 +138,11 @@ fill="#000000" stroke="none">
     q 600 400 1780 560
     q-610 -150 -610 -300"  fill="white" stroke="black" stroke-width="30" fill-opacity="1.0"/>
     <!-- ZSO2 -->
-    <text x="3400" y="-1700" textLength="5em" transform="rotate(14, 3500, -1800) scale(1,-1)">ZSO 2</text>
+    <text x="3400" y="-1700" 
+    textLength="5em" 
+    font-family="Times New Roman, Arial, Helvetica, Verdana"
+    font-weight="bold"
+    transform="rotate(14, 3500, -1800) scale(1,-1)" 
+    font-size="20em">ZSO 2</text>
 </g>
-<style>
-<![CDATA[
-    text {
-    font: bold 20em Times, Arial, Helvetica, Verdana;
-    }
-    ]]>
-</style>
 </svg>
