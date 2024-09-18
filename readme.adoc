@@ -45,7 +45,7 @@ image::logo-zso2-XVILO-short.svg[]
 
 image::logo-zso2-SP56.svg[]
 image::logo-zso2-SP56-short.svg[]
-image::logo-zso2-SP56-short-2l.svg[]
+image::logo-zso2-XVILO-short-2l.svg[]
 
 ==== Przedszkole nr 85
 
