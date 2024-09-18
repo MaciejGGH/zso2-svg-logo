@@ -17,6 +17,7 @@ image::logo-zso2-fr-poznan.svg[]
 ==== XVI LO
 
 image::logo-zso2-fr-XVILO.svg[]
+image::logo-zso2-fr-XVILO-short.svg[]
 
 ==== SP 56
 
@@ -36,6 +37,7 @@ image::logo-zso2-poznan.svg[]
 ==== XVI LO
 
 image::logo-zso2-XVILO.svg[]
+image::logo-zso2-XVILO-short.svg[]
 
 ==== SP 56
 
