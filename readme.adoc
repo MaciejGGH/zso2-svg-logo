@@ -1,5 +1,14 @@
-= Logo dla ZSO2
+= Logo dla Zespołu Szkół Ogólnokształcących nr 2 im. Charles de Gaulle'a
+:toc:
 
 Projekt logo dla https://zso2.pl[Zespołu Szkół Ogólnokształcących nr 2 im. Charles de Gaulle'a]
 
+== ZSO 2
+
+=== Kolory flagi francuskiej
+
 image::logo-zso2-fr.svg[]
+
+=== Kolory poprzednie
+
+image::logo-zso2.svg[]
