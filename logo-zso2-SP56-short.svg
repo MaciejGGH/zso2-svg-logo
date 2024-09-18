@@ -138,8 +138,8 @@ fill="#000000" stroke="none">
     q 600 400 1780 560
     q-610 -150 -610 -300"  fill="white" stroke="black" stroke-width="30" fill-opacity="1.0"/>
     <!-- ZSO2 -->
-    <text x="2400" y="-1750" 
-    textLength="4em" 
+    <text x="2680" y="-1750" 
+    textLength="3em" 
     font-family="Times New Roman, Arial, Helvetica, Verdana"
     font-weight="bold"
     transform="rotate(14, 3500, 1800) scale(1,-1)" 
