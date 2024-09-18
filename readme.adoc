@@ -1,6 +1,8 @@
 = Logo dla Zespołu Szkół Ogólnokształcących nr 2 im. Charles de Gaulle'a
 :toc:
 :toclevels: 3
+:toc-title: 
+
 Projekt logo dla https://zso2.pl[Zespołu Szkół Ogólnokształcących nr 2 im. Charles de Gaulle'a]
 
 == ZSO 2
