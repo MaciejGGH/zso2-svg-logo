@@ -2,9 +2,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- xmlns:xlink="http://www.w3.org/1999/xlink"
  preserveAspectRatio="xMidYMid meet">
-<image xlink:href="logo-zso2-base.svg" />
+<defs>
+    <image id="base-logo" href="logo-zso2-base.svg"/>
+</defs>
+<use href="#base-logo" />
 <g transform="scale(0.100000,0.100000)" fill="#000000" stroke="none">
     <!-- Tekst -->
     <path id="text-curve" d="M1700 3750 c 1600 0, 4000 -1400, 5150 -800" 
