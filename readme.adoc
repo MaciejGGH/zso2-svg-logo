@@ -34,6 +34,10 @@ image::logo-zso2-fr-przedszkole85.svg[]
 ==== ZSO 2
 
 image::logo-zso2.svg[]
+image::logo-zso2.svg[]
+
+---
+
 image::logo-zso2-poznan.svg[]
 
 ==== XVI LO
