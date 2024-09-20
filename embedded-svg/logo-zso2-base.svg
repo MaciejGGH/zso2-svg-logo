@@ -1,9 +1,7 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
-width="640pt" height="367pt" viewBox="0 0 640 367"
-preserveAspectRatio="xMidYMid meet">
+ width="640pt" height="480pt" viewBox="0 0 640 400"
+ preserveAspectRatio="xMidYMid meet">
+
 <g id="base-logo" transform="translate(0.000000,0.000000) scale(0.100000,0.100000)"
 fill="#000000" stroke="none">
     <!-- tarcza -->
@@ -134,15 +132,15 @@ fill="#000000" stroke="none">
     q 600 -400 1780 -560
     q-610 150 -610 300"  fill="white" stroke="black" stroke-width="30" fill-opacity="1.0"/>
     <!-- Tekst -->
-    <path id="text-curve" d="M1800 1900 m -520 530 c 1300 0, 3200 -1070, 3900 -560" 
+    <!-- <path id="text-curve" d="M1800 1900 m -560 510 c 1200 0, 2400 -850, 3900 -630" 
     fill="none"
-    stroke="none" stroke-width="30" opacity=".9"/>
-    <text x="1050"
+    stroke="red" stroke-width="12" opacity=".4"/>
+    <text x="1150" y="2720" 
     textLength="4em" 
     font-family="Times New Roman, Arial, Helvetica, Verdana"
     font-weight="bold"
-    font-size="32em">
+    font-size="30em">
     <textPath href="#text-curve">ZSO 2</textPath>
-    </text> 
+    </text> -->
 </g>
 </svg>

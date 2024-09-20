@@ -12,17 +12,21 @@ Projekt logo dla https://zso2.pl[Zespołu Szkół Ogólnokształcących nr 2 im.
 ==== ZSO 2
 
 image::logo-zso2-fr.svg[]
+---
 image::logo-zso2-fr-poznan.svg[]
 
 ==== XVI LO
 
 image::logo-zso2-fr-XVILO.svg[]
+---
 image::logo-zso2-fr-XVILO-short.svg[]
+---
 image::logo-zso2-fr-XVILO-short-2l.svg[]
 
 ==== SP 56
 
 image::logo-zso2-fr-SP56.svg[]
+---
 image::logo-zso2-fr-SP56-short.svg[]
 
 ==== Przedszkole nr 85
@@ -33,20 +37,24 @@ image::logo-zso2-fr-przedszkole85.svg[]
 
 ==== ZSO 2
 
-image::logo-zso2.svg[]
-image::logo-zso2-poznan.svg[]
+image::logo-zso2.svg[Static,860,640,opts=inline]
+---
+image::logo-zso2-poznan.svg[Static,860,640,opts=inline]
 
 ==== XVI LO
 
-image::logo-zso2-XVILO.svg[]
-image::logo-zso2-XVILO-short.svg[]
-image::logo-zso2-XVILO-short-2l.svg[]
+image::logo-zso2-XVILO.svg[Static,860,640,opts=inline]
+---
+image::logo-zso2-XVILO-short.svg[Static,860,640,opts=inline]
+---
+image::logo-zso2-XVILO-short-2l.svg[Static,860,640,opts=inline]
 
 ==== SP 56
 
-image::logo-zso2-SP56.svg[]
-image::logo-zso2-SP56-short.svg[]
+image::logo-zso2-SP56.svg[Static,860,640,opts=inline]
+---
+image::logo-zso2-SP56-short.svg[Static,860,640,opts=inline]
 
 ==== Przedszkole nr 85
 
-image::logo-zso2-przedszkole85.svg[]
+image::logo-zso2-przedszkole85.svg[Static,860,640,opts=inline]

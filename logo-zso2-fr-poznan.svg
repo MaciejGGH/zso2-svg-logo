@@ -13,14 +13,14 @@ fill="#000000" stroke="none">
     q 680 500 180 1675
     l 1460 0
     l 0 -1785 z"
-    style="fill:#0094DE;stroke:black;stroke-width:15;opacity:1"/>
+    style="fill:#002395;stroke:black;stroke-width:15;opacity:1"/>
     <!-- druga ćwiartka -->
     <path d="M3400 0
     q 700 600 1640 110
     q -680 500 -180 1675
     l -1460 0
     l 0 1785 z"
-    style="fill:#DB261F;stroke:black;stroke-width:15;opacity:1"/>
+    style="fill:#ed2939;stroke:black;stroke-width:15;opacity:1"/>
     <!-- trzecia ćwiartka -->
     <path d="M3400 1785
     l 1460 0 
@@ -29,7 +29,7 @@ fill="#000000" stroke="none">
     q -1440 200 -1440 580
     l 0 -1785
     z"
-    style="fill:#0094DE;stroke:black;stroke-width:15;opacity:1"/>
+    style="fill:#002395;stroke:black;stroke-width:15;opacity:1"/>
     <!-- czwarta ćwiartka -->
     <path d="M3400 1785 
     l 0 1780 
@@ -37,7 +37,7 @@ fill="#000000" stroke="none">
     q -500 -150 -300 -580
     q 160 -315 280 -625
     z"
-    style="fill:#DB261F;stroke:black;stroke-width:15;opacity:1"/>    
+    style="fill:#ed2939;stroke:black;stroke-width:15;opacity:1"/>    
     <!-- obwód tarczy -->
     <path d="M3400 0
     q 700 600 1640 110
@@ -51,8 +51,8 @@ fill="#000000" stroke="none">
     " style="fill:none;stroke:black;stroke-width:50;opacity:1"/>
     <!-- piłka -->
     <g transform="translate(300,850) scale(0.9,0.9)">
-    <circle r="350" cx="4200" cy="215" fill="#0094DE"/>
-        <g style="fill:#DB261F;stroke:#DB261F;stroke-width:45">
+    <circle r="350" cx="4200" cy="215" fill="#002395"/>
+        <g style="fill:#ed2939;stroke:#ed2939;stroke-width:45">
         <path d="M4200 565 v-700"/>
         <path d="M3850 215 h 700"/>
         <path d="M4020 745 a 100 240 1 0 1 360 0" style="fill:none;"/>
@@ -60,11 +60,11 @@ fill="#000000" stroke="none">
         </g>
     </g>
     <!-- atom -->
-    <g transform="translate(100,100)" style="fill:none;stroke:#0094DE;stroke-width:45">
+    <g transform="translate(100,100)" style="fill:none;stroke:#002395;stroke-width:45">
         <ellipse rx="150" ry="400" cx="2550" cy="2250"/>
         <ellipse rx="150" ry="400" cx="2550" cy="2250" transform="rotate(65, 2550, 2250)"/>
         <ellipse rx="150" ry="400" cx="2550" cy="2250" transform="rotate(-65, 2550, 2250)"/>
-        <circle r="60" cx="2550" cy="2250" fill="#0094DE" stroke="none"/>
+        <circle r="60" cx="2550" cy="2250" fill="#002395" stroke="none"/>
     </g>
         <!-- książka -->
     <path 
@@ -134,15 +134,15 @@ fill="#000000" stroke="none">
     q 600 -400 1780 -560
     q-610 150 -610 300"  fill="white" stroke="black" stroke-width="30" fill-opacity="1.0"/>
     <!-- Tekst -->
-    <path id="text-curve" d="M1800 1900 m -520 530 c 1300 0, 3200 -1070, 3900 -560" 
+    <path id="text-curve" d="M1800 1900 m -520 480 c 1300 0, 3200 -1070, 3900 -560" 
     fill="none"
     stroke="none" stroke-width="30" opacity=".9"/>
-    <text x="1050"
-    textLength="4em" 
+    <text x="850"
+    textLength="6.5em" 
     font-family="Times New Roman, Arial, Helvetica, Verdana"
     font-weight="bold"
-    font-size="32em">
-    <textPath href="#text-curve">ZSO 2</textPath>
+    font-size="25em">
+    <textPath href="#text-curve">ZSO 2 Poznań</textPath>
     </text> 
 </g>
 </svg>
