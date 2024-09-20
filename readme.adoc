@@ -33,26 +33,24 @@ image::logo-zso2-fr-przedszkole85.svg[]
 
 ==== ZSO 2
 
-image::logo-zso2.svg[Static,900,640,opts=inline]
-
+image::logo-zso2.svg[Static,860,640,opts=inline]
 ---
-
-image::logo-zso2-poznan.svg[Static,900,640,opts=inline]
+image::logo-zso2-poznan.svg[Static,860,640,opts=inline]
 
 ==== XVI LO
 
-image::logo-zso2-XVILO.svg[Static,900,640,opts=inline]
+image::logo-zso2-XVILO.svg[Static,860,640,opts=inline]
 ---
-image::logo-zso2-XVILO-short.svg[Static,900,640,opts=inline]
-----
-image::logo-zso2-XVILO-short-2l.svg[Static,900,640,opts=inline]
+image::logo-zso2-XVILO-short.svg[Static,860,640,opts=inline]
+---
+image::logo-zso2-XVILO-short-2l.svg[Static,860,640,opts=inline]
 
 ==== SP 56
 
-image::logo-zso2-SP56.svg[Static,900,640,opts=inline]
+image::logo-zso2-SP56.svg[Static,860,640,opts=inline]
 ---
-image::logo-zso2-SP56-short.svg[Static,900,640,opts=inline]
+image::logo-zso2-SP56-short.svg[Static,860,640,opts=inline]
 
 ==== Przedszkole nr 85
 
-image::logo-zso2-przedszkole85.svg[Static,900,640,opts=inline]
+image::logo-zso2-przedszkole85.svg[Static,860,640,opts=inline]
