@@ -133,15 +133,15 @@ fill="#000000" stroke="none">
     q 600 -400 1780 -560
     q-610 150 -610 300"  fill="white" stroke="black" stroke-width="30" fill-opacity="1.0"/>
     <!-- Tekst -->
-    <path id="text-curve" d="M1800 1900 m -520 530 c 1300 0, 3200 -1070, 3900 -560" 
+    <path id="text-curve" d="M1800 1900 m -520 500 c 1300 0, 3200 -1070, 3900 -560" 
     fill="none"
     stroke="none" stroke-width="30" opacity=".9"/>
-    <text x="1050"
-    textLength="4em" 
+    <text x="1500"
+    textLength="3em" 
     font-family="Times New Roman, Arial, Helvetica, Verdana"
     font-weight="bold"
-    font-size="32em">
-    <textPath href="#text-curve">ZSO 2</textPath>
+    font-size="30em">
+    <textPath href="#text-curve">SP 56</textPath>
     </text> 
 </g>
 </svg>
