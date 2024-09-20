@@ -137,10 +137,10 @@ fill="#000000" stroke="none">
     fill="none"
     stroke="none" stroke-width="30" opacity=".9"/>
     <text x="450"
-    textLength="11em" 
+    textLength="14em" 
     font-family="Times New Roman, Arial, Helvetica, Verdana"
     font-weight="bold"
-    font-size="18em">
+    font-size="14em">
     <textPath href="#text-curve">XVI Liceum Ogólnokształcące</textPath>
     </text> 
 </g>
