@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ preserveAspectRatio="xMidYMid meet">
+<defs>
+    <image id="base-logo" href="logo-zso2-base.svg"/>
+</defs>
+<use href="#base-logo" />
+<g transform="scale(0.100000,0.100000)" fill="#000000" stroke="none">
+    <!-- Tekst -->
+    <path id="text-curve" d="M1700 3750 c 1600 0, 4000 -1400, 5150 -800" 
+    fill="none"
+    stroke="none" stroke-width="30" opacity=".9"/>
+    <text x="1550" y="2720" 
+    textLength="4em" 
+    font-family="Times New Roman, Arial, Helvetica, Verdana"
+    font-weight="bold"
+    font-size="40em">
+    <textPath href="#text-curve">ZSO 2</textPath>
+    </text> 
+</g>
+</svg>
