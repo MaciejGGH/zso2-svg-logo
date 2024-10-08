@@ -24,29 +24,9 @@ image::logo-zso2-fr-XVILO-short-2l.svg[]
 
 image::logo-zso2-fr-SP56.svg[]
 image::logo-zso2-fr-SP56-short.svg[]
+image::logo-zso2-fr-SP56-short-2l.svg[]
 
 ==== Przedszkole nr 85
 
 image::logo-zso2-fr-przedszkole85.svg[]
 
-=== Błękitno-czerwone
-
-==== ZSO 2
-
-image::logo-zso2.svg[]
-image::logo-zso2-poznan.svg[]
-
-==== XVI LO
-
-image::logo-zso2-XVILO.svg[]
-image::logo-zso2-XVILO-short.svg[]
-image::logo-zso2-XVILO-short-2l.svg[]
-
-==== SP 56
-
-image::logo-zso2-SP56.svg[]
-image::logo-zso2-SP56-short.svg[]
-
-==== Przedszkole nr 85
-
-image::logo-zso2-przedszkole85.svg[]
