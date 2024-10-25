@@ -4,8 +4,7 @@
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
 width="640pt" height="367pt" viewBox="0 0 640 367"
 preserveAspectRatio="xMidYMid meet">
-<g id="base-logo" transform="translate(0.000000,0.000000) scale(0.100000,0.100000)"
-fill="#000000" stroke="none">
+<g id="base-logo" transform="translate(5 ,5) scale(0.1 ,0.1)" fill="#000000" stroke="none">
     <!-- tarcza -->
     <!-- pierwsza cwiartka -->
     <path d="M3400 0
