@@ -30,3 +30,7 @@ image::logo-zso2-fr-SP56-short-2l.svg[]
 
 image::logo-zso2-fr-przedszkole85.svg[]
 
+== UKS Krzesiny
+
+image::logo-zso2-fr-uks.svg[]
+
