@@ -34,3 +34,8 @@ image::logo-zso2-fr-przedszkole85.svg[]
 
 image::logo-zso2-fr-uks.svg[]
 
+== Krzesiny
+
+image::logo-zso2-fr-krzesiny.svg[]
+
+
