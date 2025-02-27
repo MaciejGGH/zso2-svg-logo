@@ -10,6 +10,8 @@ Projekt logo dla https://zso2.pl[Zespołu Szkół Ogólnokształcących nr 2 im.
 image::logo-zso2-fr.svg[]
 ---
 image::logo-zso2-fr-poznan.svg[]
+---
+image::logo-zso2-fr-zso2-krzesiny.svg[]
 
 == XVI LO
 
